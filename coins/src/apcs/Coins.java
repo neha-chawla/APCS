@@ -4,6 +4,7 @@
 // and pennies that equal that amount.
 // Neha Chawla
 // 9/8/2015
+
 package apcs; 
 
 public class Coins{
